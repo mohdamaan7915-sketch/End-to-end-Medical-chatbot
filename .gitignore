@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+model/*.bin
+model/*.gguf
+data/*.pdf
+.DS_Store
+*.log
